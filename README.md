@@ -82,7 +82,7 @@ data =
               maxCov=maxCov, mode=mode, splitRun=splitRun)
 ```
 
-The most convenient way to set this up is to create a runSuperFreq.R fie with the above code, and then run it from a [screen](https://en.wikipedia.org/wiki/GNU_Screen) with
+The most convenient way to set this up is to create a runSuperFreq.R file with the above code, and then run it from a [screen](https://en.wikipedia.org/wiki/GNU_Screen) with
 
 ```
 Rscript runSuperFreq.R
